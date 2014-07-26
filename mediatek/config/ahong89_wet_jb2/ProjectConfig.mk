@@ -185,7 +185,7 @@ CUSTOM_KERNEL_USB=mt6577
 CUSTOM_KERNEL_VIBRATOR=vibrator
 
 # To choose LK LCM driver name
-CUSTOM_LK_LCM=nt35516_qhd_dsi_cmd
+CUSTOM_LK_LCM=nt35516_qhd_dsi_cmd_ipsboe
 #nt35590_hd720_dsi_vdo_truly ssd2075_hd720_dsi_vdo_truly
 
 # A mechanism for customer to enable their own sign key.
@@ -984,7 +984,7 @@ MTK_SEND_RR_SUPPORT=yes
 MTK_SENSOR_SUPPORT=yes
 
 # sdcard will be a folder of /data
-MTK_SHARED_SDCARD=yes
+MTK_SHARED_SDCARD=no
 
 # A mechanism for customer to enable their own sign key.
 MTK_SIGNATURE_CUSTOMIZATION=no
@@ -1290,11 +1290,11 @@ MTK_HDMI_SUPPORT=no
 BOOT_LOGO=qhd
 
 # To choose kernel LCM driver name
-CUSTOM_KERNEL_LCM=nt35516_qhd_dsi_cmd
+CUSTOM_KERNEL_LCM=nt35516_qhd_dsi_cmd_ipsboe
 #nt35590_hd720_dsi_vdo_truly ssd2075_hd720_dsi_vdo_truly
 
 # To choose uboot LCM driver name
-CUSTOM_UBOOT_LCM=nt35516_qhd_dsi_cmd
+CUSTOM_UBOOT_LCM=nt35516_qhd_dsi_cmd_ipsboe
 #nt35590_hd720_dsi_vdo_truly ssd2075_hd720_dsi_vdo_truly
 
 # To set LCM resolution height size

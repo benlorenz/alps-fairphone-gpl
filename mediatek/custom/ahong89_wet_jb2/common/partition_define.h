@@ -1,3 +1,4 @@
+
 #ifndef __PARTITION_DEFINE_H__
 #define __PARTITION_DEFINE_H__
 

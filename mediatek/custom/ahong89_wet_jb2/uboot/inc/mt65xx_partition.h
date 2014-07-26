@@ -1,3 +1,4 @@
+
 #ifndef __MT65XX_PARTITION_H__
 #define __MT65XX_PARTITION_H__
 
